@@ -12,7 +12,7 @@ Tenho experiência com operações de e-commerce, marketplaces, sistemas e integ
 * Interesse em tecnologia, análise de dados e soluções digitais.
 * Buscando oportunidades para crescer profissionalmente na área de tecnologia.
 
-## Tecnologias e conhecimentos
+## Conhecimentos
 
 * HTML5
 * CSS3
