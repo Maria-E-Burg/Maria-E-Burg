@@ -1,4 +1,4 @@
-# Maria Eduarda Burg
+# MARIA EDUARDA BURG
 
 **Profissional de E-commerce em transição para a área de Tecnologia**
 
